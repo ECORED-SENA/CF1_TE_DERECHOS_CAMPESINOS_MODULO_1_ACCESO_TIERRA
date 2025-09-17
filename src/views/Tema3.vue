@@ -28,7 +28,7 @@
             figure
               img(src="@/assets/curso/tema3/2.png", data-aos="zoom-in")
           .col-lg-8
-            p(data-aos="fade-left") En el contexto rural, el territorio no se reduce a la tierra como propiedad física. Es un espacio geográfico y social que incluye los terrenos, predios y fincas, pero también comprende los recursos naturales como la tierra, el agua, el aire, y la biodiversidad, así como la población que lo habita, su economía, su cultura y su organización comunitaria. Durante el desarrollo de la unidad, se abordarán aspectos como la evaluación de impacto, la gestión de riesgos, y la implementación de sistemas de monitoreo y seguimiento. Para lograrlo, los estudiantes explorarán el uso de indicadores y métricas que les permitirán medir los resultados y el éxito del proyecto en relación con los objetivos propuestos.
+            p(data-aos="fade-left") En el contexto rural, el territorio no se reduce a la tierra como propiedad física. Es un espacio geográfico y social que incluye los terrenos, predios y fincas, pero también comprende los recursos naturales como la tierra, el agua, el aire y la biodiversidad, así como la población que lo habita, su economía, su cultura y su organización comunitaria. Durante el desarrollo de la unidad, se abordarán aspectos como la evaluación de impacto, la gestión de riesgos y la implementación de sistemas de monitoreo y seguimiento. Para lograrlo, los estudiantes explorarán el uso de indicadores y métricas que les permitirán medir los resultados y el éxito del proyecto en relación con los objetivos propuestos.
         
             .bg-color-5.tarjeta.p-3(data-aos="fade-left")
               .row.align-items-center
@@ -111,7 +111,7 @@
         figure
           img(src="@/assets/curso/tema3/10.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p(data-aos="fade-left") Garantizar tanto el acceso como la tenencia es esencial para la seguridad y el bienestar de las comunidades campesinas:
+        p(data-aos="fade-left") Garantizar tanto el acceso como la tenencia es esencial para la seguridad y el bienestar de las comunidades campesinas.
     
         .bg-color-1.tarjeta.p-4.mb-3(data-aos="fade-left")
           .row.align-items-start
@@ -125,8 +125,8 @@
                     p.mb-0 Sin acceso, el campesino no puede producir ni sostener a su familia.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Sin tenencia, no tiene seguridad jurídica, puede ser desalojado, y queda excluido de créditos, subsidios y programas estatales.
-        p Tener tierra no es solo una necesidad económica, sino un derecho clave para vivir con dignidad, preservar la cultura rural y aportar al desarrollo del país desde el campo. El reconocimiento de los derechos del campesinado es fundamental para garantizar condiciones dignas de vida, proteger su cultura, fortalecer su economía y asegurar la producción de alimentos. Uno de los pilares centrales de estos derechos es el acceso y uso del territorio
+                    p.mb-0 Sin tenencia, no tiene seguridad jurídica, puede ser desalojado y queda excluido de créditos, subsidios y programas estatales.
+        p Tener tierra no es solo una necesidad económica, sino un derecho clave para vivir con dignidad, preservar la cultura rural y aportar al desarrollo del país desde el campo. El reconocimiento de los derechos del campesinado es fundamental para garantizar condiciones dignas de vida, proteger su cultura, fortalecer su economía y asegurar la producción de alimentos. Uno de los pilares centrales de estos derechos es el acceso y uso del territorio.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -343,22 +343,22 @@
                 ul.lista-ul--color.mb-0
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Derecho a la tierra y al territorio
+                    p.mb-0 Derecho a la tierra y al territorio.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Derecho a vivir dignamente en el campo
+                    p.mb-0 Derecho a vivir dignamente en el campo.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Derecho a producir y comercializar alimentos
+                    p.mb-0 Derecho a producir y comercializar alimentos.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Derecho a una vida libre de violencia
+                    p.mb-0 Derecho a una vida libre de violencia.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Derecho a conservar sus saberes, costumbres y formas de vida
+                    p.mb-0 Derecho a conservar sus saberes, costumbres y formas de vida.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Derecho a participar en decisiones que les afecten (políticas rurales, uso del suelo, proyectos económicos)
+                    p.mb-0 Derecho a participar en decisiones que les afecten (políticas rurales, uso del suelo, proyectos económicos).
 
     .row
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
@@ -376,16 +376,16 @@
                 ul.lista-ul--color
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Diseñar políticas públicas específicas para apoyar a los campesinos
+                    p.mb-0 Diseñar políticas públicas específicas para apoyar a los campesinos.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Garantizar servicios como salud, educación rural, justicia y vivienda
+                    p.mb-0 Garantizar servicios como salud, educación rural, justicia y vivienda.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Evitar el despojo, abandono o desplazamiento del campo
+                    p.mb-0 Evitar el despojo, abandono o desplazamiento del campo.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 Reconocer la identidad campesina en la atención institucional
+                    p.mb-0 Reconocer la identidad campesina en la atención institucional.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -864,7 +864,7 @@
                       img(src="@/assets/curso/tema3/60.svg", data-aos="zoom-in")
                   .col-lg-7
                     TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                      texto="Proceso de descarga de MySQL Server Community y MySQL Workbench"
+                      texto="Decreto 1004 de 2024"
                       tiempo
                       :audio="require('../assets/curso/podcast/podcast1.mp3')"
                     ) 
@@ -999,13 +999,13 @@
           .col-lg-7.order-1.mb-3.mb-lg-0
             .bg-color-1.tarjeta
               .p-4
-                .row.justify-content-center.align-items-center
+                .row.justify-content-center.align-items-cente
                   .col-lg-5.mb-3.mb-lg-0
                     figure
                       img(src="@/assets/curso/tema3/60.svg", data-aos="zoom-in")
                   .col-lg-7
                     TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                      texto="Proceso de descarga de MySQL Server Community y MySQL Workbench"
+                      texto="Estructura Funcional del Sistema de Reforma Agraria en Colombia"
                       tiempo
                       :audio="require('../assets/curso/podcast/podcast1.mp3')"
                     ) 
@@ -1039,7 +1039,7 @@
             figure
               img(src="@/assets/curso/tema3/72.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
-            p(data-aos="fade-left") El Plan de Ordenamiento Territorial (POT) es un instrumento técnico y normativo mediante el cual se regula el uso del suelo y la ocupación del territorio. Su enfoque es de largo plazo, con el objetivo de armonizar el desarrollo urbano y rural, proteger el medio ambiente, gestionar riesgos, y mejorar las condiciones de vida de la población. El POT incluye aspectos clave como:
+            p(data-aos="fade-left") El Plan de Ordenamiento Territorial (POT) es un instrumento técnico y normativo mediante el cual se regula el uso del suelo y la ocupación del territorio. Su enfoque es de largo plazo, con el objetivo de armonizar el desarrollo urbano y rural, proteger el medio ambiente, gestionar riesgos y mejorar las condiciones de vida de la población. El POT incluye aspectos clave como:
         
             .bg-color-1.tarjeta.p-4.mb-3(data-aos="fade-left")
               .row.align-items-center
@@ -1205,7 +1205,7 @@
         figure
           img(src="@/assets/curso/tema3/86.svg", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p(data-aos="fade-left") Los campesinos tienen una relación directa, cotidiana y vital con la tierra, el agua, los bosques y demás recursos naturales. Esta conexión no solo sustenta su vida y economía, sino que también refleja un conocimiento ancestral y una cultura profundamente enraizada en el territorio. Por esa razón, la comunidad internacional, a través de la Declaración de las Naciones Unidas sobre los Derechos de los Campesinos y de Otras Personas que Trabajan en Zonas Rurales, reconoce y protege sus derechos sobre estos recursos. Los artículos 5, 17 y 20 de la declaración reconocen y garantizan derechos fundamentales de los campesinos sobre el acceso, uso y protección de los recursos naturales, asegurando su dignidad, permanencia y sostenibilidad en el territorio.
+        p(data-aos="fade-left") Los campesinos tienen una relación directa, cotidiana y vital con la tierra, el agua, los bosques y demás recursos naturales. Esta conexión no solo sustenta su vida y economía, sino que también refleja un conocimiento ancestral y una cultura profundamente enraizada en el territorio. Por esa razón, la comunidad internacional, a través de la Declaración de las Naciones Unidas sobre los derechos de los campesinos y de otras personas que trabajan en zonas rurales, reconoce y protege sus derechos sobre estos recursos. Los artículos 5, 17 y 20 de la declaración reconocen y garantizan derechos fundamentales de los campesinos sobre el acceso, uso y protección de los recursos naturales, asegurando su dignidad, permanencia y sostenibilidad en el territorio.
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -1285,7 +1285,7 @@
             td Determinar las condiciones de funcionamiento de las cuotas y contribuciones parafiscales del sector agropecuario y pesquero.
           tr
             td Fondos de estabilización
-            td Establecer los Fondos de Estabilización de Precios de Productos Agropecuarios y Pesqueros.
+            td Establecer los fondos de estabilización de precios de productos agropecuarios y pesqueros.
           tr
             td Política social rural
             td Propender por la ampliación y fortalecimiento de la política social en el sector rural.

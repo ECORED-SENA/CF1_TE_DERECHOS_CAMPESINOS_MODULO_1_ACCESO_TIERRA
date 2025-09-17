@@ -271,7 +271,7 @@ export default {
     {
       termino: 'Agroecología',
       significado:
-        'es una ciencia, un conjunto de prácticas y un movimiento social que busca transformar la agricultura y los sistemas alimentarios hacia la sostenibilidad y la justicia social. se basa en la aplicación de principios ecológicos al diseño y manejo de los sistemas agrícolas, buscando optimizar la producción de alimentos de manera que sea respetuosa con el medio ambiente y socialmente equitativa.',
+        'es una ciencia, un conjunto de prácticas y un movimiento social que busca transformar la agricultura y los sistemas alimentarios hacia la sostenibilidad y la justicia social. Se basa en la aplicación de principios ecológicos al diseño y manejo de los sistemas agrícolas, buscando optimizar la producción de alimentos de manera que sea respetuosa con el medio ambiente y socialmente equitativa.',
     },
     {
       termino: 'Conectividad digital',
@@ -281,7 +281,7 @@ export default {
     {
       termino: 'Diversidad biológica',
       significado:
-        'también conocida como biodiversidad, se refiere a la amplia variedad de seres vivos que existen en la Tierra y a los patrones naturales que estos forman. incluye la diversidad de especies, la diversidad genética dentro de cada especie, y la diversidad de ecosistemas. es esencial para el funcionamiento de los ecosistemas y para el bienestar humano.',
+        'también conocida como biodiversidad, se refiere a la amplia variedad de seres vivos que existen en la Tierra y a los patrones naturales que estos forman. Incluye la diversidad de especies, la diversidad genética dentro de cada especie y la diversidad de ecosistemas. Es esencial para el funcionamiento de los ecosistemas y para el bienestar humano.',
     },
     {
       termino: 'Educación con pertinencia y calidad',
@@ -291,12 +291,12 @@ export default {
     {
       termino: 'Enfoque de género',
       significado:
-        'es una perspectiva analítica y metodológica que busca comprender las dinámicas sociales y las relaciones entre hombres y mujeres, identificando las desigualdades y discriminaciones basadas en el género, con el objetivo de promover la igualdad y la justicia. implica reconocer que las diferencias entre hombres y mujeres no solo son biológicas, sino también construcciones sociales y culturales que influyen en sus roles, oportunidades y acceso a recursos.',
+        'es una perspectiva analítica y metodológica que busca comprender las dinámicas sociales y las relaciones entre hombres y mujeres, identificando las desigualdades y discriminaciones basadas en el género, con el objetivo de promover la igualdad y la justicia. Implica reconocer que las diferencias entre hombres y mujeres no solo son biológicas, sino también construcciones sociales y culturales que influyen en sus roles, oportunidades y acceso a recursos.',
     },
     {
       termino: 'Enfoque etario',
       significado:
-        'es una perspectiva que considera a las personas como individuos únicos dentro de un ciclo de vida, reconociendo que sus necesidades y experiencias varían según su edad. se centra en comprender cómo la edad influye en el desarrollo biológico, psicológico, emocional y social de las personas, y cómo esto afecta sus vulnerabilidades, oportunidades y expectativas.',
+        'es una perspectiva que considera a las personas como individuos únicos dentro de un ciclo de vida, reconociendo que sus necesidades y experiencias varían según su edad. Se centra en comprender cómo la edad influye en el desarrollo biológico, psicológico, emocional y social de las personas, y cómo esto afecta sus vulnerabilidades, oportunidades y expectativas.',
     },
     {
       termino: 'Enfoque intercultural',
@@ -306,17 +306,17 @@ export default {
     {
       termino: 'Producción diversificada',
       significado:
-        'es un enfoque agrícola que consiste en cultivar y/o criar una variedad de alimentos (como frutas, verduras, granos, legumbres, carnes, pescados, huevos, etc.) en lugar de enfocarse en un solo tipo de cultivo o producto (como ocurre en el monocultivo). uno de sus objetivos principales es mejorar la seguridad alimentaria y nutricional al producir diferentes tipos de alimentos, se garantiza una dieta más equilibrada y rica en nutrientes.',
+        'es un enfoque agrícola que consiste en cultivar y/o criar una variedad de alimentos (como frutas, verduras, granos, legumbres, carnes, pescados, huevos, etc.) en lugar de enfocarse en un solo tipo de cultivo o producto (como ocurre en el monocultivo). Uno de sus objetivos principales es mejorar la seguridad alimentaria y nutricional al producir diferentes tipos de alimentos, se garantiza una dieta más equilibrada y rica en nutrientes.',
     },
     {
       termino: 'Seguridad alimentaria',
       significado:
-        'se refiere a la situación en la que todas las personas tienen acceso físico, económico y social a alimentos suficientes, seguros y nutritivos para satisfacer sus necesidades alimenticias y llevar una vida activa y saludable. implica la disponibilidad de alimentos, su acceso, su utilización biológica y su estabilidad a lo largo del tiempo.',
+        'se refiere a la situación en la que todas las personas tienen acceso físico, económico y social a alimentos suficientes, seguros y nutritivos para satisfacer sus necesidades alimenticias y llevar una vida activa y saludable. Implica la disponibilidad de alimentos, su acceso, su utilización biológica y su estabilidad a lo largo del tiempo.',
     },
     {
       termino: 'Soberanía alimentaria',
       significado:
-        'es el derecho de los pueblos a definir sus propias políticas y estrategias de producción, distribución y consumo de alimentos, priorizando la producción local y sostenible para garantizar el acceso a alimentos nutritivos y culturalmente apropiados. implica un control democrático sobre los sistemas alimentarios, desde la producción hasta el consumo, poniendo énfasis en la justicia social, la sostenibilidad ambiental y el respeto a la diversidad cultural.',
+        'es el derecho de los pueblos a definir sus propias políticas y estrategias de producción, distribución y consumo de alimentos, priorizando la producción local y sostenible para garantizar el acceso a alimentos nutritivos y culturalmente apropiados. Implica un control democrático sobre los sistemas alimentarios, desde la producción hasta el consumo, poniendo énfasis en la justicia social, la sostenibilidad ambiental y el respeto a la diversidad cultural.',
     },
   ],
   referencias: [
@@ -346,14 +346,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Líder del Ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
+          cargo: 'Responsable de línea de producción Huila',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -361,9 +361,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ana Cecilia Diaz Espinosa ',
+          cargo: 'Experta temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -371,19 +378,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yerson Fabian Zarate Saavedra',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Manuel Felipe Echavarría Orozco',
+          cargo: 'Desarrollador <em>fullstack</em>',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -391,14 +413,28 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Raúl Mosquera Serrano',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
