@@ -16,7 +16,7 @@
           img(src="@/assets/curso/tema1/1.png" data-aos="zoom-in")
       .col-lg-6.col-xl-4.mb-3.mb-xl-0
         .bg-color-5.tarjeta.p-4.h-100(data-aos="fade-left")
-          p(data-aos="fade-left") A lo largo de los siglos XX y XXI, distintos gobiernos han planteado leyes, programas e instituciones para redistribuir, formalizar o restituir la tierra, con avances importantes pero también con retrocesos y limitaciones. La introducción de la función social de la propiedad, la creación del INCORA en los años sesenta, el freno que significó el Pacto de Chicoral en los setenta, la Constitución de 1991 con el reconocimiento del acceso progresivo a la tierra, la Ley de Víctimas y Restitución de Tierras de 2011 y, más recientemente, la Reforma Rural Integral del Acuerdo de Paz, son hitos que evidencian el carácter pendular de este proceso.
+          p(data-aos="fade-left") A lo largo de los siglos XX y XXI, distintos gobiernos han planteado leyes, programas e instituciones para redistribuir, formalizar o restituir la tierra, con avances importantes, pero también con retrocesos y limitaciones. La introducción de la función social de la propiedad, la creación del INCORA en los años sesenta, el freno que significó el Pacto de Chicoral en los setenta, la Constitución de 1991 con el reconocimiento del acceso progresivo a la tierra, la Ley de Víctimas y Restitución de Tierras de 2011 y, más recientemente, la Reforma Rural Integral del Acuerdo de Paz, son hitos que evidencian el carácter pendular de este proceso.
     
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
@@ -58,7 +58,7 @@
           .row(titulo="1972 - 1990 <br> Contrarreforma").justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-md-0
               h4 1972 - 1990 Contrarreforma
-              p El Pacto de Chicoral frena la redistribución y prioriza colonización de baldíos. El Programa DRI ofrece asistencia técnica y crédito, sin cambios estructurales. El narcotráfico y paramilitarismo provocan despojo violento y concentración de tierras. Normativa: Leyes 4 y 5 de 1973, Ley 6 de 1975 y Ley 30 de 1988.
+              p El Pacto de Chicoral frena la redistribución y prioriza la colonización de baldíos. El Programa DRI ofrece asistencia técnica y crédito, sin cambios estructurales. El narcotráfico y el paramilitarismo provocan despojo violento y concentración de tierras. Normativa: Leyes 4 y 5 de 1973, Ley 6 de 1975 y Ley 30 de 1988.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/7.svg', alt='Texto que describa la imagen')
@@ -126,7 +126,7 @@
             ul.lista-ul--color.ms-3.pst
               li.mb-0.d-flex
                 i.fas.fa-circle.fa-xs.bg-color-7
-                p.mb-0 <b>Ley 200 de 1936</b>: consagra la función social de la propiedad, habilita expropiación de tierras improductivas no explotadas por más de 10 años.
+                p.mb-0 <b>Ley 200 de 1936</b>: consagra la función social de la propiedad, habilita la expropiación de tierras improductivas no explotadas por más de 10 años.
               li.mb-0.d-flex
                 i.fas.fa-circle.fa-xs.bg-color-7
                 p.mb-0 <b>Ley 100 de 1944</b>: ajustes en aparcería y arrendamiento rural, buscando proteger a colonos y arrendatarios.
@@ -143,7 +143,7 @@
                 p.mb-0 Se impulsa la colonización dirigida, la adjudicación de baldíos y la expropiación con indemnización.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Surge la ANUC (Asociación Nacional de Usuarios Campesinos) que organiza invasiones y exige redistribución de tierras.
+                p.mb-0 Surge la ANUC (Asociación Nacional de Usuarios Campesinos), que organiza invasiones y exige redistribución de tierras.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
                 p.mb-0 El gobierno de Carlos Lleras Restrepo (1966–1970) da mayor fuerza a la reforma.

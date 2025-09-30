@@ -128,7 +128,7 @@
                   img(src="@/assets/curso/tema2/17.svg", style="max-width: 270px").mx-auto
                 .col-lg
                   div.bg-white.tarjeta.p-4
-                    h5 ¿Sabías que …?
+                    h5 ¿Sabías que?
                     p Según el informe del Instituto Geográfico Agustín Codazzi (IGAC, 2023):
                     p.mb-0 El 1% de los propietarios particulares de tierras rurales en Colombia (25.293 propietarios analizados) posee el 46,1% del total del área rural, equivalente a 17.125.287,8 hectáreas de las 37.121.574 hectáreas examinadas en el estudio.
     
@@ -173,7 +173,7 @@
             figure
               img(src="@/assets/curso/tema2/20.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
-            p La fragmentación de la tierra rural es un problema porque reduce la capacidad de producción, dificulta el uso de tecnologías, agota más rápido los recursos naturales y profundiza la pobreza y la inseguridad alimentaria en el campo
+            p La fragmentación de la tierra rural es un problema porque reduce la capacidad de producción, dificulta el uso de tecnologías, agota más rápido los recursos naturales y profundiza la pobreza y la inseguridad alimentaria en el campo.
             .bg-color-9.tarjeta.p-4.mb-3(data-aos="fade-left")
               .row.align-items-start
                 .col-xl-auto.mb-3.mb-xl-0
@@ -238,7 +238,7 @@
                   img(src="@/assets/curso/tema2/24.png", style="max-width: 270px").mx-auto
                 .col-lg
                   div.bg-white.tarjeta.p-4
-                    h5 ¿Sabías que …?
+                    h5 ¿Sabías que?
                     p.mb-0 Según el informe del Instituto Geográfico Agustín Codazzi (IGAC, 2023), en departamentos como Antioquia, Cundinamarca y Boyacá, cerca del 80% de los predios rurales son microfundios. En cambio, en Vichada y Caquetá, alrededor del 80% de los predios corresponden a mediana propiedad o latifundios, lo que evidencia grandes contrastes en el uso y la distribución del suelo rural en Colombia.
     
     separador
@@ -317,7 +317,7 @@
                     img(src='@/assets/curso/tema2/31.svg', alt='Texto que describa la imagen')
               div.text-white.text-center
                 h4 01
-                p Aumenta la desigualdad entre el campo y la ciudad
+                p Aumenta la desigualdad entre el campo y la ciudad.
           .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
             .tarjeta--boton.bg-color-13.p-4.h-100
               .row.justify-content-center.mb-3
@@ -397,16 +397,16 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Pérdidas de cultivos debido a lluvias irregulares o sequías prolongadas (afectan café, maíz, papa, yuca, hortalizas, entre otros)
+                p.mb-0 Pérdidas de cultivos debido a lluvias irregulares o sequías prolongadas (afectan café, maíz, papa, yuca, hortalizas, entre otros).
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Disminución de ingresos por menor producción
+                p.mb-0 Disminución de ingresos por menor producción.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Aumento en los costos de producción por la necesidad de riego, fertilizantes y tecnologías adaptativas
+                p.mb-0 Aumento en los costos de producción por la necesidad de riego, fertilizantes y tecnologías adaptativas.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Pérdida de ganado por calor extremo, escasez de agua e inundaciones
+                p.mb-0 Pérdida de ganado por calor extremo, escasez de agua e inundaciones.
           .col-lg-5.mb-4.mb-md-0.order-1
             figure
               img(src='@/assets/curso/tema2/37.png', alt='Texto que describa la imagen')
@@ -417,13 +417,13 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Migración forzada hacia zonas urbanas debido a condiciones climáticas extremas
+                p.mb-0 Migración forzada hacia zonas urbanas debido a condiciones climáticas extremas.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Desintegración familiar y comunitaria a causa de la migración
+                p.mb-0 Desintegración familiar y comunitaria a causa de la migración.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Conflictos por recursos escasos como el agua y las tierras fértiles o no inundables
+                p.mb-0 Conflictos por recursos escasos como el agua y las tierras fértiles o no inundables.
           .col-lg-5.mb-4.mb-md-0.order-1
             figure
               img(src='@/assets/curso/tema2/38.png', alt='Texto que describa la imagen')
@@ -434,10 +434,10 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Pérdida de saberes ancestrales, al no poder continuar con prácticas tradicionales
+                p.mb-0 Pérdida de saberes ancestrales, al no poder continuar con prácticas tradicionales.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Desvalorización del campesinado, al verse afectada su productividad y su rol dentro de la sociedad
+                p.mb-0 Desvalorización del campesinado, al verse afectada su productividad y su rol dentro de la sociedad.
           .col-lg-5.mb-4.mb-md-0.order-1
             figure
               img(src='@/assets/curso/tema2/39.png', alt='Texto que describa la imagen')
@@ -448,13 +448,13 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Degradación del suelo por sobreexplotación para compensar pérdidas
+                p.mb-0 Degradación del suelo por sobreexplotación para compensar pérdidas.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Pérdida de biodiversidad por alteraciones en temperatura, humedad y lluvias
+                p.mb-0 Pérdida de biodiversidad por alteraciones en temperatura, humedad y lluvias.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Mayor uso de agroquímicos para enfrentar nuevas plagas, lo que contamina suelos y fuentes hídricas
+                p.mb-0 Mayor uso de agroquímicos para enfrentar nuevas plagas, lo que contamina suelos y fuentes hídricas.    
           .col-lg-5.mb-4.mb-md-0.order-1
             figure
               img(src='@/assets/curso/tema2/40.png', alt='Texto que describa la imagen')
@@ -465,13 +465,13 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Aumento de enfermedades transmitidas por vectores como el dengue o la malaria, debido a la expansión de mosquitos en zonas templadas y altas
+                p.mb-0 Aumento de enfermedades transmitidas por vectores como el dengue o la malaria, debido a la expansión de mosquitos en zonas templadas y altas.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Malnutrición como consecuencia de la escasez o el encarecimiento de los alimentos
+                p.mb-0 Malnutrición como consecuencia de la escasez o el encarecimiento de los alimentos.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Estrés y afectaciones en la salud mental por pérdidas económicas y la incertidumbre
+                p.mb-0 Estrés y afectaciones en la salud mental por pérdidas económicas y la incertidumbre. 
           .col-lg-5.mb-4.mb-md-0.order-1
             figure
               img(src='@/assets/curso/tema2/41.png', alt='Texto que describa la imagen')  
@@ -611,7 +611,7 @@
                 p.mb-0 <b>Eliminar intermediarios</b>, creando canales directos entre campesino y consumidor.
               li.mb-2.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 <b>Establecer precios mínimos garantizados</b> para productos básicos del campo.ñas.
+                p.mb-0 <b>Establecer precios mínimos garantizados</b> para productos básicos del campo.
               li.mb-2.d-flex
                 i.fas.fa-leaf.bg-color-7
                 p.mb-0 <b>Impulsar compras públicas</b> de alimentos campesinos para escuelas, hospitales, instituciones y programas sociales.
