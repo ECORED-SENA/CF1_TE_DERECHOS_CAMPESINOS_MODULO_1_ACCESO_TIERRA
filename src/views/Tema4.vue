@@ -161,7 +161,7 @@
               h4.mb-1 Ministerio de Agricultura, Agencia Nacional de Tierras
               p.text-small Se invita a leer el documento Ministerio de Agricultura, Agencia Nacional de Tierras, donde se aborda la estructura y funciones de la Agencia Nacional de Tierras como máxima autoridad en materia de tierras rurales en Colombia. 
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexos/Anexo_1_Ministerio_de_Agricultura_Agencia_Nacional_de_Tierras.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     

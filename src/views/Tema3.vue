@@ -439,16 +439,16 @@
                 ul.lista-ul--color.mb-0
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 La adecuación de tierras y construcción de infraestructura logística
+                    p.mb-0 La adecuación de tierras y construcción de infraestructura logística.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 La disponibilidad de alimentos en todo el territorio nacional
+                    p.mb-0 La disponibilidad de alimentos en todo el territorio nacional.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 La investigación, innovación y transferencia tecnológica para mejorar la producción agropecuaria y acuícola
+                    p.mb-0 La investigación, innovación y transferencia tecnológica para mejorar la producción agropecuaria y acuícola.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-7
-                    p.mb-0 La protección de la biodiversidad y los medios e insumos tradicionales del campo
+                    p.mb-0 La protección de la biodiversidad y los medios e insumos tradicionales del campo.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -466,7 +466,7 @@
       .px-4.px-md-5.pb-md-3
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/8YhIkkiHt4Y?si=lVQ4gWo1QHStYgvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         
         p.mb-5 En cuanto al Sistema Nacional de Reforma Agraria y Desarrollo Rural Campesino, se trata de una estructura estatal diseñada para planificar, coordinar y ejecutar todas las acciones relacionadas con la reforma agraria. Este sistema promueve la participación activa de campesinos, pueblos indígenas, comunidades negras, afrocolombianas, raizales y palenqueras. Sus funciones principales incluyen:
 
@@ -864,7 +864,7 @@
                       img(src="@/assets/curso/tema3/60.svg", data-aos="zoom-in")
                   .col-lg-7
                     TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                      texto="Proceso de descarga de MySQL Server Community y MySQL Workbench"
+                      texto="Decreto 1004 de 2024"
                       tiempo
                       :audio="require('../assets/curso/podcast/podcast1.mp3')"
                     ) 
@@ -1005,9 +1005,9 @@
                       img(src="@/assets/curso/tema3/60.svg", data-aos="zoom-in")
                   .col-lg-7
                     TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                      texto="Proceso de descarga de MySQL Server Community y MySQL Workbench"
+                      texto="Estructura Funcional del Sistema de Reforma Agraria en Colombia"
                       tiempo
-                      :audio="require('../assets/curso/podcast/podcast1.mp3')"
+                      :audio="require('../assets/curso/podcast/podcast2.mp3')"
                     ) 
 
         .bg-full-width.bg-color-4.mb-5
