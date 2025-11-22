@@ -16,9 +16,14 @@
                 img(src='@/assets/curso/tema4/1.png', alt='')
             .col-lg
               .p-4.text-white
-                p.mb-0(data-aos="fade-up") La Defensoría del Pueblo es la entidad del Estado colombiano encargada de defender, promocionar, proteger y divulgar los derechos humanos, las garantías y libertades de los habitantes del país y de los colombianos residentes en el exterior. Actúa frente a actos ilegales, injustos, irrazonables, negligentes o arbitrarios, tanto de autoridades como de particulares.
-        
-        .titulo-con-imagen.mb-5(data-aos="fade-right")
+                p.mb-0(data-aos="fade-up") El reconocimiento y protección de los derechos campesinos en Colombia ha ganado fuerza en los últimos años gracias a reformas constitucionales, mecanismos legales, instituciones estatales y luchas sociales de base. A continuación, se presentan las #[b principales entidades, sistemas y herramientas jurídicas e institucionales] a través de las cuales se puede gestionar dicho reconocimiento.
+    separador
+    #t_4_1.titulo-segundo.color-acento-contenido
+      h2 4.1 Defensoría del Pueblo
+
+      p La Defensoría del Pueblo es la entidad del Estado colombiano encargada de defender, promocionar, proteger y divulgar los derechos humanos, las garantías y libertades de los habitantes del país y de los colombianos residentes en el exterior. Actúa frente a actos ilegales, injustos, irrazonables, negligentes o arbitrarios, tanto de autoridades como de particulares.
+
+        .titulo-con-imagen.mb-5.mt-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
             h3.titulo-con-imagen__texto Misión

@@ -155,18 +155,20 @@
               li.mb-0.d-flex
                 i.fas.fa-circle.fa-xs.bg-color-7
                 p.mb-0 <b>Acto legislativo de 1968</b>: refuerza la expropiación por vía administrativa con indemnización previa
-            p.mb-0 <b>Ley 1 de 1968</b>: fortalece la ley anterior, protegiendo a arrendatarios y aparceros.
+              li.mb-0.d-flex
+                i.fas.fa-circle.fa-xs.bg-color-7
+                p.mb-0 <b>Ley 1 de 1968</b>: fortalece la ley anterior, protegiendo a arrendatarios y aparceros.
           div(titulo="1972 - 1990: Contrarreforma").ms-5
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Pacto de Chicoral (1972–1973): acuerdo político entre gobierno y gremios terratenientes que frena la redistribución y prioriza la colonización de baldíos.
+                p.mb-0 <b>Pacto de Chicoral (1972–1973):</b> acuerdo político entre gobierno y gremios terratenientes que frena la redistribución y prioriza la colonización de baldíos.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
                 p.mb-0 Se impulsa el Programa DRI (Desarrollo Rural Integrado), con énfasis en asistencia técnica y crédito, sin redistribución de tierras.
               li.mb-0.d-flex
                 i.fas.fa-leaf.bg-color-7
-                p.mb-0 Auge del narcotráfico y paramilitarismo: se compran más de 6 millones de hectáreas como lavado de activos y mecanismo de control territorial, acompañado de despojo violento a campesinos.
+                p.mb-0 <b>Auge del narcotráfico y paramilitarismo:</b> se compran más de 6 millones de hectáreas como lavado de activos y mecanismo de control territorial, acompañado de despojo violento a campesinos.
             p <b>Normativa</b>: 
             ul.lista-ul--color.ms-3.pst
               li.mb-0.d-flex
@@ -175,7 +177,9 @@
               li.mb-0.d-flex
                 i.fas.fa-circle.fa-xs.bg-color-7
                 p.mb-0 <b>Ley 6 de 1975</b>: consolida contrarreforma debilitando al INCORA.
-            p.mb-0 <b>Ley 30 de 1988</b>: introduce la “Reforma Agraria de Mercado”, subsidios para que campesinos compren tierras en el mercado libre; su impacto fue limitado.
+              li.mb-0.d-flex
+                i.fas.fa-circle.fa-xs.bg-color-7
+                p.mb-0 <b>Ley 30 de 1988</b>: introduce la “Reforma Agraria de Mercado”, subsidios para que campesinos compren tierras en el mercado libre; su impacto fue limitado.
     
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -201,7 +205,7 @@
                 p.mb-0 <b>Ley 70 de 1993</b>: reconoce derechos territoriales a comunidades negras y establece la titulación colectiva.
               li.mb-0.d-flex
                 i.fas.fa-circle.fa-xs.bg-color-7
-                p.mb-0 <b>Ley 160 de 1994</b>: crea el Sistema Nacional de Reforma Agraria y Desarrollo Rural Campesino, liquida el INCORA y crea el INCODER, mantiene el modelo de subsidio para compra de tierras, e incorpora las ZRC.
+                p.mb-0 <b>Ley 160 de 1994</b>: crea el Sistema Nacional de Reforma Agraria y Desarrollo Rural Campesino, liquida el INCORA y crea el INCODER, mantiene el modelo de subsidio para compra de tierras e incorpora las ZRC.
               li.mb-0.d-flex
                 i.fas.fa-circle.fa-xs.bg-color-7
                 p.mb-0 <b>Decreto 1777 de 1996</b>: reglamenta ZRC.

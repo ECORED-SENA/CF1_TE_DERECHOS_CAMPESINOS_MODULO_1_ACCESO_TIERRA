@@ -49,7 +49,7 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          '2.	Retos que enfrentan los campesinos: acceso a las tierras y su cultivo',
+          'Retos que enfrentan los campesinos: acceso a las tierras y su cultivo',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -352,7 +352,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de línea de producción Huila',
+          cargo: 'Responsable de línea de producción',
           centro: 'Dirección General',
         },
       ],
@@ -362,7 +362,7 @@ export default {
       autores: [
         {
           nombre: 'Ana Cecilia Diaz Espinosa ',
-          cargo: 'Experta temático',
+          cargo: 'Experta temática',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -385,7 +385,7 @@ export default {
         },
         {
           nombre: 'Manuel Felipe Echavarría Orozco',
-          cargo: 'Desarrollador <em>fullstack</em>',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

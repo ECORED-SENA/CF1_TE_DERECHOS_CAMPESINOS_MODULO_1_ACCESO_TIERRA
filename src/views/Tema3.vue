@@ -233,52 +233,52 @@
                     ul.lista-ul--color
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Educación de calidad con pertinencia rural
+                        p.mb-0 Educación de calidad con pertinencia rural.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Vivienda digna
+                        p.mb-0 Vivienda digna.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Salud
+                        p.mb-0 Salud.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Servicios públicos domiciliarios
+                        p.mb-0 Servicios públicos domiciliarios.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Vías terciarias
+                        p.mb-0 Vías terciarias.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Tierra y territorio
+                        p.mb-0 Tierra y territorio.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Ambiente sano
+                        p.mb-0 Ambiente sano.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Semillas e intercambio de estas
+                        p.mb-0 Semillas e intercambio de estas.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Recursos naturales y biodiversidad
+                        p.mb-0 Recursos naturales y biodiversidad.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Agua
+                        p.mb-0 Agua.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Participación reforzada
+                        p.mb-0 Participación reforzada.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Conectividad digital
+                        p.mb-0 Conectividad digital.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Infraestructura rural
+                        p.mb-0 Infraestructura rural.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Extensión agropecuaria y empresarial
+                        p.mb-0 Extensión agropecuaria y empresarial.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Asistencia técnica y tecnológica
+                        p.mb-0 Asistencia técnica y tecnológica.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Canales de comercialización
+                        p.mb-0 Canales de comercialización.
         
     p.mb-5 El campesinado debe ser tratado como cualquier otra población: libre, igual en derechos y sin discriminación, especialmente por razones económicas, sociales, culturales o políticas.
 
@@ -1244,7 +1244,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto Ley 101 de 1993
     
-    p.mb-5 La Ley 101 de 1993, también conocida como Ley General de Desarrollo Agropecuario y Pesquero, tiene como propósito proteger el desarrollo de las actividades agropecuarias y pesqueras, así como promover el mejoramiento del ingreso y la calidad de vida de los productores rurales. A continuación se presentan sus objetivos principales:
+    p.mb-5 La Ley 101 de 1993, también conocida como Ley General de Desarrollo Agropecuario y Pesquero, tiene como propósito proteger el desarrollo de las actividades agropecuarias y pesqueras, así como promover el mejoramiento del ingreso y la calidad de vida de los productores rurales. A continuación, se presentan sus objetivos principales:
     
     .titulo-sexto.color-acento-contenido
       h5 Tabla 3.

@@ -21,7 +21,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto ¿Qué es la concentración de la tierra rural?
     
-    p.mb-5 La concentración de la tierra rural es el proceso mediante el cual grandes extensiones de tierra agrícola o rural quedan en manos de un número reducido de personas, familias o empresas. En otras palabras, pocas personas son dueñas de mucha tierra, mientras que la mayoría de la población campesina tiene muy poca o ninguna. Este problema es histórico en Colombia y responde a múltiples causas estructurales. A continuación se presentan las principales causas que han llevado a la concentración de la tierra en Colombia:
+    p.mb-5 La concentración de la tierra rural es el proceso mediante el cual grandes extensiones de tierra agrícola o rural quedan en manos de un número reducido de personas, familias o empresas. En otras palabras, pocas personas son dueñas de mucha tierra, mientras que la mayoría de la población campesina tiene muy poca o ninguna. Este problema es histórico en Colombia y responde a múltiples causas estructurales. A continuación, se presentan las principales causas que han llevado a la concentración de la tierra en Colombia:
     
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -130,7 +130,7 @@
                   div.bg-white.tarjeta.p-4
                     h5 ¿Sabías que?
                     p Según el informe del Instituto Geográfico Agustín Codazzi (IGAC, 2023):
-                    p.mb-0 El 1% de los propietarios particulares de tierras rurales en Colombia (25.293 propietarios analizados) posee el 46,1% del total del área rural, equivalente a 17.125.287,8 hectáreas de las 37.121.574 hectáreas examinadas en el estudio.
+                    p.mb-0 El 1 % de los propietarios particulares de tierras rurales en Colombia (25.293 propietarios analizados) posee el 46,1 % del total del área rural, equivalente a 17.125.287,8 hectáreas de las 37.121.574 hectáreas examinadas en el estudio.
     
     separador
     
@@ -239,7 +239,7 @@
                 .col-lg
                   div.bg-white.tarjeta.p-4
                     h5 ¿Sabías que?
-                    p.mb-0 Según el informe del Instituto Geográfico Agustín Codazzi (IGAC, 2023), en departamentos como Antioquia, Cundinamarca y Boyacá, cerca del 80% de los predios rurales son microfundios. En cambio, en Vichada y Caquetá, alrededor del 80% de los predios corresponden a mediana propiedad o latifundios, lo que evidencia grandes contrastes en el uso y la distribución del suelo rural en Colombia.
+                    p.mb-0 Según el informe del Instituto Geográfico Agustín Codazzi (IGAC, 2023), en departamentos como Antioquia, Cundinamarca y Boyacá, cerca del 80 % de los predios rurales son microfundios. En cambio, en Vichada y Caquetá, alrededor del 80 % de los predios corresponden a mediana propiedad o latifundios, lo que evidencia grandes contrastes en el uso y la distribución del suelo rural en Colombia.
     
     separador
     
@@ -368,19 +368,19 @@
                     ul.lista-ul--color
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Cambios en los patrones de lluvia
+                        p.mb-0 Cambios en los patrones de lluvia.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Incremento de la temperatura promedio
+                        p.mb-0 Incremento de la temperatura promedio.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Derretimiento de glaciares
+                        p.mb-0 Derretimiento de glaciares.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Aumento del nivel del mar
+                        p.mb-0 Aumento del nivel del mar.
                       li.mb-0.d-flex
                         i.fas.fa-leaf.bg-color-7
-                        p.mb-0 Mayor frecuencia e intensidad de eventos extremos (sequías, inundaciones, tormentas, etc.)
+                        p.mb-0 Mayor frecuencia e intensidad de eventos extremos (sequías, inundaciones, tormentas, etc.).
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
